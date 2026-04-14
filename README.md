@@ -1,4 +1,4 @@
-# <h1 align="center">Proyecto App Web Dulce Paraíso 🍰</h1>
+# <h1 align="center">Aplicación Web Dulce Paraíso 🍰</h1>
 
 ![portada](https://github.com/user-attachments/assets/136c9dfc-c115-4f08-9b9e-b5cde6bff967)
 
