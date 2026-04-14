@@ -5,6 +5,12 @@
 
 
 
+![Sin título](https://github.com/user-attachments/assets/af85f023-d12e-446d-9875-b792c9b6aa45)
+![productos](https://github.com/user-attachments/assets/eaf46ad9-f912-46ed-a13f-9ff6d326454c)
+
+
+
+
 <p align="center">Proyecto TFG DAW</p>
 
 
