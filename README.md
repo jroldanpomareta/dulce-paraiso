@@ -37,3 +37,7 @@ Puede registrarse desde la aplicación
 1. Importar la base de datos (db.sql)
 2. Configurar conexión en /includes/config.php
 3. Ejecutar en servidor local (XAMPP, etc.)
+
+   
+👨‍💻 Autor
+Javier Roldán Pomareta
