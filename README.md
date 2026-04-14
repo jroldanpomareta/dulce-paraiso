@@ -5,12 +5,15 @@
 
 <div align="center">
 
+![productos](https://github.com/user-attachments/assets/21e9f27b-3863-4602-9316-34f3aaff096a)
 
-<img src="https://github.com/user-attachments/assets/af85f023-d12e-446d-9875-b792c9b6aa45" width="700"/><br><br>
-
-<img src="https://github.com/user-attachments/assets/eaf46ad9-f912-46ed-a13f-9ff63d26454c" width="700"/>
 
 </div>
+
+<div align="center">
+![Sin título](https://github.com/user-attachments/assets/7c58cd39-66bc-4a3a-8009-74a47e2bfebc)
+</div>
+
 
 
 
