@@ -3,16 +3,14 @@
 ![portada](https://github.com/user-attachments/assets/136c9dfc-c115-4f08-9b9e-b5cde6bff967)
 
 
-<div align="center">
+
 
 ![productos](https://github.com/user-attachments/assets/21e9f27b-3863-4602-9316-34f3aaff096a)
 
 
-</div>
 
-<div align="center">
 ![Sin título](https://github.com/user-attachments/assets/7c58cd39-66bc-4a3a-8009-74a47e2bfebc)
-</div>
+
 
 
 
