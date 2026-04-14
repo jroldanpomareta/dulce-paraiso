@@ -3,9 +3,8 @@
 ![portada](https://github.com/user-attachments/assets/136c9dfc-c115-4f08-9b9e-b5cde6bff967)
 
 
+<img src="![productos](https://github.com/user-attachments/assets/21e9f27b-3863-4602-9316-34f3aaff096a)" width="700"/>
 
-
-![productos](https://github.com/user-attachments/assets/21e9f27b-3863-4602-9316-34f3aaff096a)
 
 
 
